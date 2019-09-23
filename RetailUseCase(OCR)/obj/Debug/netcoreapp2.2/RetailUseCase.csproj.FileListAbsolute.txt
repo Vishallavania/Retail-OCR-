@@ -1,0 +1,33 @@
+C:\Users\devNXT\source\repos\RetailUseCase\bin\Debug\netcoreapp2.2\RetailUseCase.deps.json
+C:\Users\devNXT\source\repos\RetailUseCase\bin\Debug\netcoreapp2.2\RetailUseCase.runtimeconfig.json
+C:\Users\devNXT\source\repos\RetailUseCase\bin\Debug\netcoreapp2.2\RetailUseCase.runtimeconfig.dev.json
+C:\Users\devNXT\source\repos\RetailUseCase\bin\Debug\netcoreapp2.2\RetailUseCase.dll
+C:\Users\devNXT\source\repos\RetailUseCase\bin\Debug\netcoreapp2.2\RetailUseCase.pdb
+C:\Users\devNXT\source\repos\RetailUseCase\obj\Debug\netcoreapp2.2\RetailUseCase.csproj.CoreCompileInputs.cache
+C:\Users\devNXT\source\repos\RetailUseCase\obj\Debug\netcoreapp2.2\RetailUseCase.AssemblyInfoInputs.cache
+C:\Users\devNXT\source\repos\RetailUseCase\obj\Debug\netcoreapp2.2\RetailUseCase.AssemblyInfo.cs
+C:\Users\devNXT\source\repos\RetailUseCase\obj\Debug\netcoreapp2.2\RetailUseCase.dll
+C:\Users\devNXT\source\repos\RetailUseCase\obj\Debug\netcoreapp2.2\RetailUseCase.pdb
+C:\Users\devNXT\source\repos\RetailUseCase\obj\Debug\netcoreapp2.2\RetailUseCase.csprojAssemblyReference.cache
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\bin\Debug\netcoreapp2.2\RetailUseCase.deps.json
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\bin\Debug\netcoreapp2.2\RetailUseCase.runtimeconfig.json
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\bin\Debug\netcoreapp2.2\RetailUseCase.runtimeconfig.dev.json
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\bin\Debug\netcoreapp2.2\RetailUseCase.dll
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\bin\Debug\netcoreapp2.2\RetailUseCase.pdb
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\obj\Debug\netcoreapp2.2\RetailUseCase.csprojAssemblyReference.cache
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\obj\Debug\netcoreapp2.2\RetailUseCase.csproj.CoreCompileInputs.cache
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\obj\Debug\netcoreapp2.2\RetailUseCase.AssemblyInfoInputs.cache
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\obj\Debug\netcoreapp2.2\RetailUseCase.AssemblyInfo.cs
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\obj\Debug\netcoreapp2.2\RetailUseCase.dll
+C:\Users\devNXT\Desktop\Retail_Project\Retail_Project\RetailUseCase1\obj\Debug\netcoreapp2.2\RetailUseCase.pdb
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\bin\Debug\netcoreapp2.2\RetailUseCase.deps.json
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\bin\Debug\netcoreapp2.2\RetailUseCase.runtimeconfig.json
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\bin\Debug\netcoreapp2.2\RetailUseCase.runtimeconfig.dev.json
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\bin\Debug\netcoreapp2.2\RetailUseCase.dll
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\bin\Debug\netcoreapp2.2\RetailUseCase.pdb
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\obj\Debug\netcoreapp2.2\RetailUseCase.csprojAssemblyReference.cache
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\obj\Debug\netcoreapp2.2\RetailUseCase.csproj.CoreCompileInputs.cache
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\obj\Debug\netcoreapp2.2\RetailUseCase.AssemblyInfoInputs.cache
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\obj\Debug\netcoreapp2.2\RetailUseCase.AssemblyInfo.cs
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\obj\Debug\netcoreapp2.2\RetailUseCase.dll
+C:\Users\devNXT\Desktop\AI Models\RetailUseCase(OCR)\obj\Debug\netcoreapp2.2\RetailUseCase.pdb
